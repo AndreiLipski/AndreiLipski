@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**AndreiLipski/AndreiLipski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Andrei Lipski</h1>
+<h3 align="center">Web developer  from Minsk, Belarus</h3>
 
 Here are some ideas to get you started:
 
