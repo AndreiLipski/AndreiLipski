@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on freelancing.
 - 🌱 I’m currently learning JavaScript.
-- 💬 literature, I will have something to tell.
+- 💬 Ask me about literature and I will have something to say.
 - 📫 How to reach me **davinchi.l.a.s@mail.ru**
 - ⚡ Fun fact: knight of three ribbons Viva Braslav.
 
