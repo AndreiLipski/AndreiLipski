@@ -6,10 +6,10 @@
 - 💬 Ask me about literature and I will have something to say.
 - 📫 How to reach me **davinchi.l.a.s@mail.ru**
 - ⚡ Fun fact: knight of three ribbons Viva Braslav.
-
-<a href="https://andreilipski.github.io/portfolio/">My page</a>
-<a href="https://andreilipski.github.io/progect-2/">landing page cakes</a>
-<a href="https://andreilipski.github.io/pet-progect_1/">Сonstruction company landing page</a>
+My work:<br>
+<a href="https://andreilipski.github.io/portfolio/">My page</a><br>
+<a href="https://andreilipski.github.io/progect-2/">landing page cakes</a><br>
+<a href="https://andreilipski.github.io/pet-progect_1/">Сonstruction company landing page</a><br>
 
 
 <h3 align="left">Connect with me:</h3>
