@@ -8,9 +8,9 @@
 - ⚡ Fun fact: knight of three ribbons Viva Braslav.
 <br>
 My work:<br>
-<a href="https://andreilipski.github.io/portfolio/" target="blank">My page</a><br>
-<a href="https://andreilipski.github.io/progect-2/" target="blank">landing page cakes</a><br>
-<a href="https://andreilipski.github.io/pet-progect_1/" target="blank">Сonstruction company landing page</a><br>
+<a href="https://andreilipski.github.io/portfolio/" target="_blank">My page</a><br>
+<a href="https://andreilipski.github.io/progect-2/" target="_blank">landing page cakes</a><br>
+<a href="https://andreilipski.github.io/pet-progect_1/" target="_blank">Сonstruction company landing page</a><br>
 
 
 <h3 align="left">Connect with me:</h3>
