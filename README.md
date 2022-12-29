@@ -9,7 +9,7 @@
 <br>
 My work:<br>
 
-<a href="https://andreilipski.github.io/BDP/" target="_blank">real estate page (tab-css, slider-js, acordion-css, burger-js, scrol-js)</a><br>
+<a href="https://andreilipski.github.io/BDP/" target="_blank">real estate page </a>(tab-css, slider-js, acordion-css, burger-js, scrol-js)<br>
 <a href="https://andreilipski.github.io/pet-progect_1/" target="_blank">Сonstruction company landing page (bootstrap)</a><br>
 <a href="https://andreilipski.github.io/portfolio/" target="_blank">My page (bootstrap burger-js, scrol-js)</a><br>
 <a href="https://andreilipski.github.io/progect-2/" target="_blank">landing page cakes (bootstrap, burger-js, scrol-js)</a><br>
